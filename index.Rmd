@@ -9,7 +9,23 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## graphs-collection
+A collection of [graphs](http://en.wikipedia.org/wiki/Graph_%28mathematics%29) in
+a variety of different exchange formats.
+
+* Homepage: http://mhenderson.github.io/graphs-collection/
+* Repository: https://github.com/MHenderson/graphs-collection/
+* Download:
+  * [graphs-collection.tar.gz](https://github.com/MHenderson/graphs-collection/tarball/master)
+  * [graphs-collection.zip](https://github.com/MHenderson/graphs-collection/zipball/master)
+
+Supported Formats
+-----------------
+
+* [DOT](http://www.graphviz.org/doc/info/lang.html)
+* [GML](http://graphml.graphdrawing.org/)
+* [GEXF](http://www.fim.uni-passau.de/en/fim/faculty/chairs/theoretische-informatik/projects.html)
+* [GraphML](http://gexf.net/format/)
+* [Pajek](https://gephi.org/users/supported-graph-formats/pajek-net-format/)
 
 Classic Graphs
 --------------
