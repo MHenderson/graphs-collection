@@ -17,47 +17,15 @@ A collection of [graphs](http://en.wikipedia.org/wiki/Graph_%28mathematics%29) i
 
 ## Classic Graphs
 
-| Graph           | Graphviz                                       | GML                                                    | GEXF                                             |
-|:---------------:| ---------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------ | 
-| Chvatal graph   | [`chvatal.gv`](src/Classic/Chvatal/chvatal.gv) | [`chvatal.gml`](src/Classic/Chvatal/chvatal.gml)       | [`chvatal.gexf`](src/Classic/Chvatal/chvatal.gexf) |
-| Desargues graph |                                                | [`desargues.gml`](src/Classic/Desargues/desargues.gml) | [`desargues.gexf`](src/Classic/Desargues/desargues.gexf) |
+| Graph           | Graphviz                                            | GML                                                    | GEXF                                                     | GraphML                                                        | Pajek                                                  |
+|:---------------:|:---------------------------------------------------:|:------------------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------------------:|:------------------------------------------------------:| 
+| Chvatal graph   | [`chvatal.gv`](src/Classic/Chvatal/chvatal.gv)      | [`chvatal.gml`](src/Classic/Chvatal/chvatal.gml)       | [`chvatal.gexf`](src/Classic/Chvatal/chvatal.gexf)       | [`chvatal.graphml`](src/Classic/Chvatal/chvatal.graphml)       | [`chvatal.net`](src/Classic/Chvatal/chvatal.net)       |
+| Desargues graph |                                                     | [`desargues.gml`](src/Classic/Desargues/desargues.gml) | [`desargues.gexf`](src/Classic/Desargues/desargues.gexf) | [`desargues.graphml`](src/Classic/Desargues/desargues.graphml) | [`desargues.net`](src/Classic/Desargues/desargues.net) |
+| Frucht graph    |                                                     | [`frucht.gml`](src/Classic/Frucht/frucht.gml)          |                                                          | [`frucht.graphml`](src/Classic/Frucht/frucht.graphml)          | [`frucht.net`](src/Classic/Frucht/frucht.net)          |
+| Heawood graph   |                                                     | [`heawood.gml`](src/Classic/Heawood/heawood.gml)       | [`heawood.gexf`](src/Classic/Heawood/heawood.gexf)       | [`heawood.graphml`](src/Classic/Heawood/heawood.graphml)       | [`heawood.net`](src/Classic/Heawood/heawood.net)       |
+| Petersen graph  | [`petersen.gml`](src/Classic/Petersen/petersen.gml) |                                                        | [`petersen.gexf`](src/Classic/Petersen/petersen.gexf)    | [`petersen.graphml`](src/Classic/Petersen/petersen.graphml)    | [`petersen.net`](src/Classic/Petersen/petersen.net)    |
+| Tutte graph     | [`tutte.gv`](src/Classic/Tutte/tutte.gv)            | [`tutte.gml`](src/Classic/Tutte/tutte.gml)             | [`tutte.gexf`](src/Classic/Tutte/tutte.gexf)             |                                                                | [`tutte.net`](src/Classic/Tutte/tutte.net)             |
 
-[graphml](src/Classic/Chvatal/chvatal.graphml)
-[pajek](src/Classic/Chvatal/chvatal.net)
-
-### Desargues Graph
-
-[graphml](src/Classic/Desargues/desargues.graphml)
-[pajek](src/Classic/Desargues/desargues.net)
-
-### Frucht Graph
-
-[gml](src/Classic/Frucht/frucht.gml)
-[gexf](src/Classic/Frucht/frucht.gexf)
-[graphml](src/Classic/Frucht/frucht.graphml)
-[pajek](src/Classic/Frucht/frucht.net)
-
-### Heawood Graph
-
-[gml](src/Classic/Heawood/heawood.gml)
-[gexf](src/Classic/Heawood/heawood.gexf)
-[graphml](src/Classic/Heawood/heawood.graphml)
-[pajek](src/Classic/Heawood/heawood.net)
-
-### Petersen Graph
-
-[gml](src/Classic/Petersen/petersen.gml)
-[gexf](src/Classic/Petersen/petersen.gexf)
-[graphml](src/Classic/Petersen/petersen.graphml)
-[pajek](src/Classic/Petersen/petersen.net)
-
-### Tutte Graph
-
-[dot](src/Classic/Tutte/tutte.gv)
-[gml](src/Classic/Tutte/tutte.gml)
-[gexf](src/Classic/Tutte/tutte.gexf)
-[graphml](src/Classic/Tutte/tutte.graphml)
-[pajek](src/Classic/Tutte/tutte.net)
 
 ## Platonic Graphs
 
