@@ -29,32 +29,10 @@ A collection of [graphs](http://en.wikipedia.org/wiki/Graph_%28mathematics%29) i
 
 ## Platonic Graphs
 
-### Dodecahedral Graph
-
-[dot](src/Platonic/Dodecahedral/dodecahedral.gv)
-[gml](src/Platonic/Dodecahedral/dodecahedral.gml)
-[gexf](src/Platonic/Dodecahedral/dodecahedral.gexf)
-[graphml](src/Platonic/Dodecahedral/dodecahedral.graphml)
-[pajek](src/Platonic/Dodecahedral/dodecahedral.net)
-
-### Icosahedral Graph
-
-[gml](src/Platonic/Icosahedral/icosahedral.gml)
-[gexf](src/Platonic/Icosahedral/icosahedral.gexf)
-[graphml](src/Platonic/Icosahedral/icosahedral.graphml)
-[pajek](src/Platonic/Icosahedral/icosahedral.net)
-
-### Octahedral Graph
-
-[gml](src/Platonic/Octahedral/octahedral.gml)
-[gexf](src/Platonic/Octahedral/octahedral.gexf)
-[graphml](src/Platonic/Octahedral/octahedral.graphml)
-[pajek](src/Platonic/Octahedral/octahedral.net)
-
-### Tetrahedral Graph
-
-[gml](src/Platonic/Tetrahedral/tetrahedral.gml)
-[gexf](src/Platonic/Tetrahedral/tetrahedral.gexf)
-[graphml](src/Platonic/Tetrahedral/tetrahedral.graphml)
-[pajek](src/Platonic/Tetrahedral/tetrahedral.net)
+| Graph               | Graphviz                                                       | GML                                                              | GEXF                                                               | GraphML                                                                   | Pajek                                                            |
+|:-------------------:|:--------------------------------------------------------------:|:----------------------------------------------------------------:|:------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:----------------------------------------------------------------:| 
+| Dodecahedral graph  | [`dodecahedral.gv`](src/Platonic/Dodecahedral/dodecahedral.gv) | [`dodecahedral.gml`](src/Platonic/Dodecahedral/dodecahedral.gml) | [`dodecahedral.gexf`](src/Platonic/Dodecahedral/dodecahedral.gexf) | [`dodecahedral.graphml`](src/Platonic/Dodecahedral/dodecahedral.graphml)  | [`dodecahedral.net`](src/Platonic/Dodecahedral/dodecahedral.net) |
+| Icosahedral graph   |                                                                | [`icosahedral.gml`](src/Platonic/Icosahedral/icosahedral.gml)    | [`icosahedral.gexf`](src/Platonic/Icosahedral/icosahedral.gexf)    | [`icosahedral.graphml`](src/Platonic/Icosahedral/icosahedral.graphml)     | [`icosahedral.net`](src/Platonic/Icosahedral/icosahedral.net)    |
+| Octahedral graph    |                                                                | [`octahedral.gml`](src/Platonic/Octahedral/octahedral.gml)       |                                                                    | [`octahedral.graphml`](src/Platonic/Octahedral/octahedral.graphml)        | [`octahedral.net`](src/Platonic/Octahedral/octahedral.net)       |
+| Tetrahedral graph   |                                                                | [`tetrahedral.gml`](src/Platonic/Tetrahedral/tetrahedral.gml)    | [`tetrahedral.gexf`](src/Platonic/Tetrahedral/tetrahedral.gexf)    | [`tetrahedral.graphml`](src/Platonic/Tetrahedral/tetrahedral.graphml)     | [`tetrahedral.net`](src/Platonic/Tetrahedral/tetrahedral.net)    |
 
