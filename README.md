@@ -17,18 +17,16 @@ A collection of [graphs](http://en.wikipedia.org/wiki/Graph_%28mathematics%29) i
 
 ## Classic Graphs
 
-### Chvatal Graph
+| Graph           | Graphviz                                     | GML                                                  | GEXF                                             |
+| --------------- | -------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------ | 
+| Chvatal graph   | [chvatal.gv](src/Classic/Chvatal/chvatal.gv) | [chvatal.gml](src/Classic/Chvatal/chvatal.gml)       | [chvatal.gexf](src/Classic/Chvatal/chvatal.gexf) |
+| Desargues graph |                                              | [desargues.gml](src/Classic/Desargues/desargues.gml) | [desargues.gexf](src/Classic/Desargues/desargues.gexf) |
 
-[dot](src/Classic/Chvatal/chvatal.gv)
-[gml](src/Classic/Chvatal/chvatal.gml)
-[gexf](src/Classic/Chvatal/chvatal.gexf)
 [graphml](src/Classic/Chvatal/chvatal.graphml)
 [pajek](src/Classic/Chvatal/chvatal.net)
 
 ### Desargues Graph
 
-[gml](src/Classic/Desargues/desargues.gml)
-[gexf](src/Classic/Desargues/desargues.gexf)
 [graphml](src/Classic/Desargues/desargues.graphml)
 [pajek](src/Classic/Desargues/desargues.net)
 
